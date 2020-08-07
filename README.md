@@ -6,3 +6,4 @@ You can get three types of coffee: espresso, cappuccino, and latte. Since nothin
 ### Learning ###
 This project allows us to get a taste of Python. Practice working with functions, challenge yourself with loops and conditions, and get more confident in Python.
 
+<img width="964" alt="Output" src="https://github.com/Ajayksoni98/Coffee-machine-Project/blob/master/Capture.JPG">
