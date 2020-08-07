@@ -1,0 +1,43 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    def f1(x):
+        ...
+
+
+    def f2(x):
+        ...
+
+
+    def f3(x):
+        ...
+
+
+    def f(x):
+        if x <= 0:
+            ...
+        elif 0 < x < 1:
+            ...
+        else:
+            ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9576
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 8. You answer was: None. Correct answer was: 0.0
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    1
+
+    Correct output:
+    0.0
+
+    Your code output:
+    None
+  time: Sat, 11 Jul 2020 03:49:55 UTC
+record: -1
